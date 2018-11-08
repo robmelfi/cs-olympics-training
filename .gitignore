@@ -7,4 +7,7 @@
 # Unignore all dirs
 !*/
 
+# Unignore makefile
+!makefile
+
 .DS_Store
