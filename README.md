@@ -42,7 +42,7 @@ hello: hello.c
 	 gcc -o hello hello.c
 
 clean:
-	 rm hello.o hello.exe
+	 rm hello
 ```
 #### GNU Make for Multiple Source Files
 ```
